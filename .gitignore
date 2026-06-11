@@ -1,0 +1,7 @@
+build/
+build_release/
+*.o
+*.a
+bench_results.csv
+__pycache__/
+.DS_Store
